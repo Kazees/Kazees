@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Breno ✌️
 - 🌱 Estudando C++
+- 🌱 Estudando Python
 #
 ### Redes sociais/Contato:
 <div> 
@@ -13,9 +14,12 @@
   
 ### Linguagem atualmente:
 <img align="center" alt="Breno-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+<img align="center" alt="Breno-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+        
           
 ### Tecnologia que eu atualmente utilizo:
 <img align="center" alt="Breno-vs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <img align="center" alt="Breno-qt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
+<img align="center" alt="Breno-pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
 
 
 #
