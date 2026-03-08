@@ -9,7 +9,6 @@ Paralelamente, pesquiso algoritmos de Machine Learning em Python focados na extr
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-yuri/)
 [![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zcranemc@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/breno_yr)
 
 ---
 
